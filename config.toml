@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "10 days in noth Chile"
+theme = "ananke"
