@@ -1,9 +1,9 @@
 ---
 title: "Uyuni 2/4"
-date: 2020-03-26T20:30:11-03:00
+date: 2020-03-13T20:30:11-03:00
 ---
 
-### Vendredi 13.03
+### Vendredi 13...
 
 Notre chauffeur vient nous réveiller en nous disant qu'il est en train de changer les roues et que le petit déjeuner est servi. Felix ne va malheureusement pas mieux. 
 On part vers 8h sous un beau ciel bleu, direction les Geysers!

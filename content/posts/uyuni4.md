@@ -1,9 +1,9 @@
 ---
 title: "Uyuni 4/4"
-date: 2020-03-26T20:30:11-03:00
+date: 2020-03-15T20:30:11-03:00
 ---
 
-### Dimanche 15.03:
+### Retour a San Pedro de Atacama
 
 Départ à 4h du matin en direction des hot springs pour un stop petit déjeuner ( = là ou on a déjeuner le premier jour....et aussi dormi du coup).On repart rapidement pour la frontière Bolivienne, pour le "transfert des touriste". 
 Le contrôle Bolivien se fait rapidement. 

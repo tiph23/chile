@@ -1,6 +1,6 @@
 ---
 title: "San Pedro de Atacama"
-date: 2020-03-26T20:30:11-03:00
+date: 2020-03-07T20:30:11-03:00
 ---
 
 San Pedro de Atama. Une drole de ville au milieu du desert. A 2400m d'altitude.

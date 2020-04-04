@@ -1,9 +1,9 @@
 ---
 title: "Uyuni 1/4"
-date: 2020-03-26T20:30:11-03:00
+date: 2020-03-12T20:30:11-03:00
 ---
 
-### Jeudi 12.03:
+### Depart:
 
 Départ de SanPedroDeAtacama. Un minibus vient nous chercher à notre Airbnb,  prévu entre 6h30 et 7h10. On attend devant la porte...et jusque 7h15 on stress un peu car on voit beaucoup de minibus passer, mais aucun ne s'arrête pour nous!
  On est finalement récupéré et on part en direction de la frontière Chili/Bolivie, le tout en admirant les belles couleurs du matin autour du Licancabur.
