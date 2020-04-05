@@ -3,6 +3,12 @@ title: "Uyuni 4/4"
 date: 2020-03-15T20:30:11-03:00
 ---
 
+[sanPedroDeAtacama]({{< ref "/sanPedroDeAtacama.md" >}}) |
+[uyuni1]({{< ref "/uyuni1.md" >}}) |
+[uyuni2]({{< ref "/uyuni2.md" >}}) |
+[uyuni3]({{< ref "/uyuni3.md" >}}) |
+[wtf]({{< ref "/wtf.md" >}})
+
 ### Retour a San Pedro de Atacama
 
 Départ à 4h du matin en direction des hot springs pour un stop petit déjeuner ( = là ou on a déjeuner le premier jour....et aussi dormi du coup).On repart rapidement pour la frontière Bolivienne, pour le "transfert des touriste". 

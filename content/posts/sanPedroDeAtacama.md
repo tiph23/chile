@@ -3,13 +3,23 @@ title: "San Pedro de Atacama"
 date: 2020-03-07T20:30:11-03:00
 ---
 
-San Pedro de Atama. Une drole de ville au milieu du desert. A 2400m d'altitude.
+[uyuni1]({{< ref "/uyuni1.md" >}}) |
+[uyuni2]({{< ref "/uyuni2.md" >}}) |
+[uyuni3]({{< ref "/uyuni3.md" >}}) |
+[uyuni4]({{< ref "/uyuni4.md" >}}) |
+[wtf]({{< ref "/wtf.md" >}})
+
+Quelle drole de ville! Au milieu du desert, San Pedro de Atacama se trouve quand meme a 2400m d'altitude.
 Nous avons un chouette petit airbnb pour 10jours, dans lequel nous avons meme une meilleure connexion internet qu'en Guadeloupe! Incroyable mais vrai. 
+Tout aussi incroyable, la meteo: il fait tres chaud, c'est etouffant et le sable rend le tout pas tres agreable. Mais la, surprise, il se met a pleuvoir dans la semaine! 
+Je n'avais jamais entendu des orages aussi bruyant. Tout le monde est surpris, en Mars il ne pleut normalement jamais. 
+On est bien content que ca arrive en semaine et pendant qu'on bosse. On croise les doigts pour que ca s'arrete d'ici Jeudi, jour du depart pour notre tour de 4 jours en Bolivie.
+En attendant, quelques images de San Pedro:
 
 
 {{< gallery dir="/img/sanPedro/sanPedro" />}} {{< load-photoswipe >}}
 
-Nous arrivons un Vendredi soir a San Pedro pour pouovoir profiter du weekend pour visiter les allentours.
+Nous sommes arrives un Vendredi soir a San Pedro pour pouovoir profiter du weekend pour visiter les allentours.
 En 2 jours de weekend on aura reussi a voir pas mal de choses. Comme on a pas beaucoup de temps et qu'on ne veut pas s'occuper nous meme d'une location de voiture ou quoi on passe par une agence pour faire les excursions. De toute facon, la ville est principalement faites que de ca: de restaurants et d'agences qui proposent des tours.
 On se decide pour 4 tours different, chacun a la demi journee:
 

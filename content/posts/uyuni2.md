@@ -3,6 +3,12 @@ title: "Uyuni 2/4"
 date: 2020-03-13T20:30:11-03:00
 ---
 
+[sanPedroDeAtacama]({{< ref "/sanPedroDeAtacama.md" >}}) |
+[uyuni1]({{< ref "/uyuni1.md" >}}) |
+[uyuni3]({{< ref "/uyuni3.md" >}}) |
+[uyuni4]({{< ref "/uyuni4.md" >}}) |
+[wtf]({{< ref "/wtf.md" >}})
+
 ### Vendredi 13...
 
 Notre chauffeur vient nous réveiller en nous disant qu'il est en train de changer les roues et que le petit déjeuner est servi. Felix ne va malheureusement pas mieux. 

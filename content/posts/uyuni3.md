@@ -3,6 +3,12 @@ title: "Uyuni 3/4"
 date: 2020-03-14T20:30:11-03:00
 ---
 
+[sanPedroDeAtacama]({{< ref "/sanPedroDeAtacama.md" >}}) |
+[uyuni1]({{< ref "/uyuni1.md" >}}) |
+[uyuni2]({{< ref "/uyuni2.md" >}}) |
+[uyuni4]({{< ref "/uyuni4.md" >}}) |
+[wtf]({{< ref "/wtf.md" >}})
+
 ### Samedi 14.03:
 
 Levée 4h, rapide petit déj'. Départ vers 5h. On arrive au désert de sel en temps et en heure pour le lever de soleil mais comme il y a beaucoup de nuages ce n'est pas très impressionnant. 
