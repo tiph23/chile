@@ -1,6 +1,7 @@
 ---
 title: "San Pedro de Atacama"
 date: 2020-03-07T20:30:11-03:00
+disable_share: true
 ---
 
 [uyuni1]({{< ref "/uyuni1.md" >}}) |

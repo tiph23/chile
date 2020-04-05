@@ -1,6 +1,7 @@
 ---
 title: "Uyuni 2/4"
 date: 2020-03-13T20:30:11-03:00
+disable_share: true
 ---
 
 [sanPedroDeAtacama]({{< ref "/sanPedroDeAtacama.md" >}}) |

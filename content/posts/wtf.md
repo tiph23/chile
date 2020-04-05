@@ -1,6 +1,7 @@
 ---
 title: "On s'en fiche des détails Tiph', on veut des chiffres et des faits concrêts!"
 date: 2020-03-16T20:30:11-03:00
+disable_share: true
 ---
 
 [sanPedro]({{< ref "/sanPedroDeAtacama.md" >}}) |
