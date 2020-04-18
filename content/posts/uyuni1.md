@@ -13,19 +13,16 @@ disable_share: true
 
 ### Depart:
 
-Départ de SanPedroDeAtacama. Un minibus vient nous chercher à notre Airbnb,  prévu entre 6h30 et 7h10. On attend devant la porte...et jusque 7h15 on stress un peu car on voit beaucoup de minibus passer, mais aucun ne s'arrête pour nous!
+Départ de San Pedro. Un minibus vient nous chercher à notre Airbnb,  prévu entre 6h30 et 7h10. On attend devant la porte...et jusque 7h15 on stress un peu car on voit beaucoup de minibus passer, mais aucun ne s'arrête pour nous!
  On est finalement récupéré et on part en direction de la frontière Chili/Bolivie, le tout en admirant les belles couleurs du matin autour du Licancabur.
+Le Licancabur c'est un peu le symbole de San Pedro. Il appartient principalement au Chili, mais un partie du versant Nord appartient a la Bolivie. Licancabur signifie "montagne du peuple", et les Sampedrinos en sont tres fiers. Son sommet culmine quand meme a 5916m!
 
-{{< gallery >}}
-{{< figure link="/img/uyuni1/saut.jpg" >}}
-{{< /gallery >}}
+{{< gallery dir="/img/uyuni1/licancabur/" />}} {{< load-photoswipe >}}
 
 
 L'air de rien on arrive au contrôle Chilien, à 4500m d'altitude ! (Départ à 2400 de San Pedro).Il fait froid et il y a du vent mais le paysage est magnifique. 
 
-{{< gallery >}}
-{{< figure link="/img/uyuni1/saut.jpg" caption="Saut UYUNI" >}}
-{{< /gallery >}}
+{{< gallery dir="/img/uyuni1/frontiereChili/" />}} {{< load-photoswipe >}}
 
 Tous les véhicules font la queue pour le contrôle. On stress un peu car Felix n'a pas un papier qui est normalement obligatoire...finalement on tombe sur un douanier sympa qui fait impasse. Ouf. 
 5mns de voiture plus loin on s'arrête pour le contrôle Bolivien, le petit déjeuner, et pour changer de véhicule. Tous les minibus de touristes au départ de San Pedro sont maintenant dispatchés dans des Jeep Boliviennes. 6 touristes + 1 chauffeur-guide par jeep.
@@ -35,17 +32,21 @@ On passera donc les 4 prochains jours avec:
 - Xav&Simon, couple d'anglais 
 - Cenon, notre guide Bolivien.
 
-Pratique, il se trouve que Séverine est Franco-Argentine donc si on ne comprend pas des trucs en Español, elle pourra traduire!(Photos)5mns de voiture plus loin on s'arrête encore pour payer l'entrée du premier parc que l'on visite. Déjà le paysage est dingue. On est entouré de montagnes/volcans. Certains enneigés, d'autres pas. Soleil&nuages au rdv et premier gros coup de coeur: la laguna blanca. Magnifique lagune avec des supers reflets des montagnes qui l'entourent, et quelques flaments rose. (Photos)Ensuite on s'arrête à la Laguna Verde, mais qui n'est pas vraiment verte...et le temps devient de plus en plus gris...
+Pratique, il se trouve que Séverine est Franco-Argentine donc si on ne comprend pas des trucs en Español, elle pourra traduire!
 
-{{< gallery >}}
-{{< figure link="/img/uyuni1/saut.jpg" >}}
-{{< /gallery >}}
+{{< gallery dir="/img/uyuni1/frontiereBolivie/" />}} {{< load-photoswipe >}}
+
+5mns de voiture plus loin on s'arrête encore pour payer l'entrée du premier parc que l'on visite. Déjà le paysage est dingue. On est entouré de montagnes/volcans. Certains enneigés, d'autres pas. Soleil&nuages au rdv et premier gros coup de coeur: la laguna blanca. Magnifique lagune avec des supers reflets des montagnes qui l'entourent, et quelques flaments rose.
+
+{{< gallery dir="/img/uyuni1/lagunaBlanca/" />}} {{< load-photoswipe >}}
+
+Ensuite on s'arrête à la Laguna Verde, mais qui n'est pas vraiment verte...et le temps devient de plus en plus gris...
+
+{{< gallery dir="/img/uyuni1/lagunaVerde/" />}} {{< load-photoswipe >}}
 
 On continue notre route pour s'arrêter ensuite aux hot springs. Des bains naturels à 38°C avec un superbe vue sur le désert et les montagnes autour.
 
-{{< gallery >}}
-{{< figure link="/img/uyuni1/saut.jpg" caption="Saut UYUNI" >}}
-{{< /gallery >}}
+{{< gallery dir="/img/uyuni1/hotSpring/" />}} {{< load-photoswipe >}}
 
 Pendant qu'on se baigne notre guide s'occupe de préparer le repas dans un des "comederos" (comer = manger) du parc. Ce sont des sortes de cantines construites exprès pour que les guides puissent cuisiner et que les touristes puissent manger. Souvent les salles de Comedoros appartiennent à des petits hôtels qui ont quelques chambres/dortoirs.
 Après le repas on reprend la route en direction des Geysers.
@@ -54,18 +55,11 @@ Felix commence à ne pas se sentir bien à cause de l'altitude (on est à un peu
 
 Et là, tout à coup notre chauffeur prend un mauvais virage et c'est le drame: on explose les 2 pneus de gauche!
 On descend tous de la voiture, il se met de plus en plus à pleuvoir et même à grêler!!
-
-{{< gallery >}}
-{{< figure link="/img/uyuni1/saut.jpg" caption="Saut UYUNI" >}}
-{{< /gallery >}}
-
 Heureusement on était reparti à 2 jeeps de la pause déjeuner donc on utilise notre roue de rechange et celle de l'autre jeep. Quelques uns d'entre nous se réfugient dans l'autre jeep à l'abris mais pas de place pour tout le monde. D'autres se réfugient sous le toit du coffre de la jeep...
 
 {{< youtube id="4Rn68lXxxyM" >}}
 
-{{< gallery >}}
-{{< figure link="/img/uyuni1/saut.jpg" caption="Saut UYUNI" >}}
-{{< /gallery >}}
+{{< gallery dir="/img/uyuni1/roue/" />}} {{< load-photoswipe >}}
 
 Les 2 roues réparées, on reprend la route.Mais 300m plus loin on entend une nouvelle explosion: la roue arrière gauche est de nouveau  morte. On découvre des bouts de métaux très pointus sur la route...mystère comment ils sont arrivés là, en tout cas on a de nouveau une roue à plat! Et il ne s'est pas arrêté de pleuvoir, on est tous encore trempé du premier changement de roue, on a froid! Et Felix est de plus en plus mal. Et le plus gros soucis: on a pas de 3ème roue de secours! Heureusement on est pas loin des hots springs et là on sait qu'il y a d'autres jeep de touristes, avec éventuellement une roue pour nous... Le deuxième jeep emmène donc notre chauffeur à l'endroit où on a déjeuné et nous on attend à l'abris dans la voiture. Ils reviennent rapidement avec une roue...on ressort de la voiture donc le temps que les chauffeurs changent la roue...on sent qu'il y a un truc qui ne va pas mais on ne sait pas quoi.  L'autre jeep s'en va et notre chauffeur nous dit de monter dans la voiture, il veut nous parler. Ça sent pas bon! En effet, il nous annonce, les yeux humides, qu'on a plus de possibilités pour avancer et qu'on va devoir passer la nuit ici et repartir seulement demain matin. 
 Le choc. 
@@ -89,4 +83,3 @@ Entre temps notre chauffeur nous dit qu'il a joint l'agence et que demain matin 
 
 Je retrouve Felix qui ne dort pas et sort presque en courant de la chambre, pour aller vomir le peu de soupe qu'il avait dîné. Toute la nuit il alternera entre quelques heures de sommeil très léger et un passage aux toilettes :(
 
-{{< gallery dir="/img/uyuni1/" />}} {{< load-photoswipe >}}

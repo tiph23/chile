@@ -4,21 +4,22 @@ date: 2020-03-16T20:30:11-03:00
 disable_share: true
 ---
 
-[sanPedro]({{< ref "/sanPedroDeAtacama.md" >}}) |
+[sanPedroDeAtacama]({{< ref "/sanPedroDeAtacama.md" >}}) |
 [uyuni1]({{< ref "/uyuni1.md" >}}) |
 [uyuni2]({{< ref "/uyuni2.md" >}}) |
 [uyuni3]({{< ref "/uyuni3.md" >}}) |
 [uyuni4]({{< ref "/uyuni4.md" >}})
 
+L'excursion a Uyuni en quelques chiffres:
 
 - 3 jours dans le désert
 - un 4x4
 - 5 roues de crevé
 - une suspension de cassé
-- altitude de 4800m 
+- altitude max de 4800m 
 - des milliers de flaments roses
-- des centaines de llamas
-- un llama de mangé
+- des centaines de lamas
+- un lama de mangé
 - 3 canyons
 - 5 lagunes
 - une dizaine d'autruches
@@ -40,3 +41,5 @@ disable_share: true
 - 38°C hot springs
 - 6 fois donner son numéro de passeport
 - 18L d'eau de bu
+
+...et pour en savoir plus, lis les articles!
