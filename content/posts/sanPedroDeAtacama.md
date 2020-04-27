@@ -10,7 +10,7 @@ disable_share: true
 [uyuni4]({{< ref "/uyuni4.md" >}}) |
 [wtf]({{< ref "/wtf.md" >}})
 
-Quelle drole de ville! 
+Quelle drôle de ville! 
 
 Au milieu du désert, San-Pedro-de-Atacama se trouve quand même à 2400m d'altitude.  
 Nous avons un chouette petit airbnb pour 10jours, dans lequel nous avons même une meilleure connexion internet qu'en Guadeloupe! Incroyable mais vrai.  

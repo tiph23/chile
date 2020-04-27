@@ -10,9 +10,6 @@ disable_share: true
 [uyuni4]({{< ref "/uyuni4.md" >}}) |
 [wtf]({{< ref "/wtf.md" >}})
 
-
-### Depart:
-
 Départ de San Pedro. Un minibus vient nous chercher à notre Airbnb,  prévu entre 6h30 et 7h10. On attend devant la porte...et jusque 7h15 on stress un peu car on voit beaucoup de minibus passer, mais aucun ne s'arrête pour nous!
  On est finalement récupéré et on part en direction de la frontière Chili/Bolivie, le tout en admirant les belles couleurs du matin autour du Licancabur.
 Le Licancabur c'est un peu le symbole de San Pedro. Il appartient principalement au Chili, mais un partie du versant Nord appartient a la Bolivie. Licancabur signifie "montagne du peuple", et les Sampedrinos en sont tres fiers. Son sommet culmine quand meme a 5916m!
@@ -63,7 +60,7 @@ Heureusement on était reparti à 2 jeeps de la pause déjeuner donc on utilise 
 
 Les 2 roues réparées, on reprend la route.Mais 300m plus loin on entend une nouvelle explosion: la roue arrière gauche est de nouveau  morte. On découvre des bouts de métaux très pointus sur la route...mystère comment ils sont arrivés là, en tout cas on a de nouveau une roue à plat! Et il ne s'est pas arrêté de pleuvoir, on est tous encore trempé du premier changement de roue, on a froid! Et Felix est de plus en plus mal. Et le plus gros soucis: on a pas de 3ème roue de secours! Heureusement on est pas loin des hots springs et là on sait qu'il y a d'autres jeep de touristes, avec éventuellement une roue pour nous... Le deuxième jeep emmène donc notre chauffeur à l'endroit où on a déjeuné et nous on attend à l'abris dans la voiture. Ils reviennent rapidement avec une roue...on ressort de la voiture donc le temps que les chauffeurs changent la roue...on sent qu'il y a un truc qui ne va pas mais on ne sait pas quoi.  L'autre jeep s'en va et notre chauffeur nous dit de monter dans la voiture, il veut nous parler. Ça sent pas bon! En effet, il nous annonce, les yeux humides, qu'on a plus de possibilités pour avancer et qu'on va devoir passer la nuit ici et repartir seulement demain matin. 
 Le choc. 
-Et il pleut toujours.On demande pourquoi il ne contact pas quelqu'un de l'agence, où est ce qu'on va dormir, si on va quand même pouvoir rattraper notre retard etc. Il nous dit qu'il a tout fait, qu'au village (là où il y a les hot springs) où il est retourné il y a du réseau/wifi mais ils ne le mettent à disposition qu'à 18h, pas avant!! Il a proposé de payer, on lui a refusé. Mystère, mystère... Bref, on est à 20-30mns à pieds de la où on a déjeuné et c'est la qu'on va dormir (ils ont des dortoirs). Il faut donc transporter tous nos sacs et la nourriture à pieds jusque là bas. 
+Et il pleut toujours. On demande pourquoi il ne contact pas quelqu'un de l'agence, où est ce qu'on va dormir, si on va quand même pouvoir rattraper notre retard etc. Il nous dit qu'il a tout fait, qu'au village (là où il y a les hot springs) où il est retourné il y a du réseau/wifi mais ils ne le mettent à disposition qu'à 18h, pas avant!! Il a proposé de payer, on lui a refusé. Mystère, mystère... Bref, on est à 20-30mns à pieds de la où on a déjeuné et c'est la qu'on va dormir (ils ont des dortoirs). Il faut donc transporter tous nos sacs et la nourriture à pieds jusque là bas. 
 Et Felix est toujours de plus en plus mal. Heureusement la pluie s'arrête!
 On fait le trie dans la nourriture à prendre...
 

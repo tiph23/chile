@@ -10,8 +10,6 @@ disable_share: true
 [uyuni4]({{< ref "/uyuni4.md" >}}) |
 [wtf]({{< ref "/wtf.md" >}})
 
-### Samedi 14.03:
-
 Levé 4h, rapide petit déj'. Départ vers 5h. On arrive au désert de sel en temps et en heure pour le lever de soleil mais comme il y a beaucoup de nuages...
 
 {{< figure src="/img/uyuni3/leverSoleil.jpg" >}}

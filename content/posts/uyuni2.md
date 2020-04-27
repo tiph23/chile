@@ -10,8 +10,6 @@ disable_share: true
 [uyuni4]({{< ref "/uyuni4.md" >}}) |
 [wtf]({{< ref "/wtf.md" >}})
 
-### Vendredi 13...
-
 Notre chauffeur vient nous réveiller en nous disant qu'il est en train de changer les roues et que le petit déjeuner est servi. Felix ne va malheureusement pas mieux. 
 On part vers 8h sous un beau ciel bleu, direction les Geysers!
 On arrive sans encombres aux Geysers, tout est enneigé autour c'est très surprenant!!! 

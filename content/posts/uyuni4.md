@@ -9,8 +9,6 @@ date: 2020-03-15T20:30:11-03:00
 [uyuni3]({{< ref "/uyuni3.md" >}}) |
 [wtf]({{< ref "/wtf.md" >}})
 
-### Retour a San Pedro de Atacama
-
 Départ à 4h du matin en direction des hot springs pour un stop petit déjeuner ( = là ou on a déjeuner le premier jour....et aussi dormi du coup).
 
 {{< figure src="/img/uyuni4/hotSprings.jpg" >}}  

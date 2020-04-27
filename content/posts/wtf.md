@@ -10,7 +10,7 @@ disable_share: true
 [uyuni3]({{< ref "/uyuni3.md" >}}) |
 [uyuni4]({{< ref "/uyuni4.md" >}})
 
-L'excursion a Uyuni en quelques chiffres:
+L'excursion à Uyuni en quelques chiffres:
 
 - 3 jours dans le désert
 - un 4x4
