@@ -26,7 +26,7 @@ L'excursion à Uyuni en quelques chiffres:
 - un trentaine de vicuña
 - des centaines de Kms2 de champs de quinoa
 - 3 bouteilles de vin rouge
-- 1000 Kms parcourus
+- 1000 Kms parcourus
 - 1x pluie
 - 1x grêle
 - 1x neige
