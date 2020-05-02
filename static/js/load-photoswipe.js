@@ -11,7 +11,7 @@ var loadphotoswipejs = 1
 /* TODO: Make the share function work */
 
 document.addEventListener('DOMContentLoaded', function() {
-    var items = []; // array of slide objects that will be passed to PhotoSwipe()
+    var items = {}; // array of slide objects that will be passed to PhotoSwipe()
     // for every figure element on the page:
     document.querySelectorAll('figure').forEach(function($figure, index) {
         if ($figure.className == 'no-photoswipe') return true;  // ignore any figures where class="no-photoswipe"
@@ -57,7 +57,9 @@ document.addEventListener('DOMContentLoaded', function() {
             }, 30);
         }
         // Save the index of this image then add it to the array
-        items.push(item);
+        var gn = $figure.getAttribute("gallery-name");
+        if (!items.hasOwnProperty(gn)) items[gn]=[];
+        items[gn].push(item);
         // Event handler for click on a figure
         $figure.addEventListener('click', function(event) {
             event.preventDefault();  // prevent the normal behaviour i.e. load the <a> hyperlink
@@ -68,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 bgOpacity: 0.8,
                 showHideOpacity: true
             }
-            new PhotoSwipe($pswp, PhotoSwipeUI_Default, items, options).init();
+            new PhotoSwipe($pswp, PhotoSwipeUI_Default, items[gn], options).init();
         }, false);
     });
 }, false);
