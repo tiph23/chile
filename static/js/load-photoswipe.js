@@ -66,7 +66,7 @@ document.addEventListener('DOMContentLoaded', function() {
             // Get the PSWP element and initialize it with the desired options
             var $pswp = document.querySelector('.pswp');
             var options = {
-                index: index,
+                index: items[gn].indexOf(item),
                 bgOpacity: 0.8,
                 showHideOpacity: true
             }

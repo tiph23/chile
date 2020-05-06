@@ -19,7 +19,7 @@ Je n'avais jamais entendu des orages aussi bruyants. Tout le monde est surpris, 
 On est bien content que ça arrive en semaine et pendant qu'on bosse. On croise les doigts pour que ca s'arrête d'ici Jeudi, jour du départ pour notre tour de 4 jours en Bolivie.  
 En attendant, quelques images de San Pedro:
 
-{{< gallery dir="/img/sanPedro/sanPedro" />}} {{< load-photoswipe >}}
+{{< gallery dir="/img/sanPedro/sanPedro" gallery-name="sanPedro" />}} {{< load-photoswipe >}}
 
 Nous sommes arrivés un Vendredi soir à San Pedro pour pouovoir profiter du weekend pour visiter les alentours.
 En 2 jours de weekend on aura réussi a voir pas mal de choses. Comme on a pas beaucoup de temps et qu'on ne veut pas s'occuper nous même d'une location de voiture on passe par une agence pour faire les excursions. De toute façon, la ville est principalement faites que de ça: de restaurants et d'agences qui proposent des tours organisés.
@@ -27,15 +27,17 @@ On se décide pour 4 tours différents, chacun sur une demi journée:
 
 **Laguna Altiplanicas**:
 
-{{< gallery dir="/img/sanPedro/lagunaAltiplanicas" />}} {{< load-photoswipe >}}
+{{< figure src="/img/sanPedro/lagunaAltiplanica/01.jpg" >}}  
+
+{{< gallery dir="/img/sanPedro/lagunaAltiplanicas" gallery-name="lagunaAltiplanicas" />}} {{< load-photoswipe >}}
 
 **Laguna Escondida**: il s'agit de 7 petites "lagunes", cachées au milieu du désert. Elle sont toutes plus salées les unes que les autres, et plus que la mer morte paraît-il! Il est autorisé de se baigner dans la première et la dernière.
 
-{{< gallery dir="/img/sanPedro/lagunaEscondida" />}} {{< load-photoswipe >}}
+{{< gallery dir="/img/sanPedro/lagunaEscondida" gallery-name="lagunaEscondida" />}} {{< load-photoswipe >}}
 
 **Vallee Colorada**:
 
-{{< gallery dir="/img/sanPedro/valleeColorada" />}} {{< load-photoswipe >}}
+{{< gallery dir="/img/sanPedro/valleeColorada" gallery-name="valleeColorada" />}} {{< load-photoswipe >}}
 
 **Valle de la muerte**:
 
@@ -44,4 +46,4 @@ On part seulement vers 16h30 car avant il fait beaucoup trop chaud. Et notre but
 On s'arrête regarder ceux qui font du sandboard et on en profite pour faire une pause car il fait chaud!
 Puis on pousse nos vélos, contre le vent et les deux pieds dans le sable, juqu'en haut pour arriver au Mirador. Vivement la descente!
 
-{{< gallery dir="/img/sanPedro/valleDeLaMuerte" />}} {{< load-photoswipe >}}
+{{< gallery dir="/img/sanPedro/valleDeLaMuerte" gallery-name="valleDeLaMuerte" />}} {{< load-photoswipe >}}
