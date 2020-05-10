@@ -21,7 +21,7 @@ Mais ça...c'était sans penser à notre mal chance et au fait qu'on est **vendr
 
 {{< gallery dir="/img/uyuni2/roue/" gallery-name="roue" />}} {{< load-photoswipe >}}
 
-(video roue)
+(video roue: coming soon...)
 
 Comme on roulait sur la neige on allait très lentement donc la perte de la roue ne s'est pas trop faite sentir. Note chauffeur sort rapidement et cours rattrapper la roue...
 Nous on ne sait pas si on doit rire ou pleurer...! Dans tous les cas on sort tous de la voiture. Heureusement il fait grand soleil. Mais bon, pour Felix qui est très mal, être bloqué à 4800 c'est pas l'idéal... 
@@ -29,11 +29,11 @@ On arrive à arrêter une Jeep qui vient dans l'autre sens et leur chauffeur aid
 On finit par repartir. Il y a 30mns de route avant d'arriver à la laguna Colorada. Mais après ce qu'il vient de se passer on roule très lentement et Felix met une alarme toutes les 10mns pour qu'on fasse un rapide stop pour vérifier que les boulons tiennent! 
 Foutu pour foutu....au 2ème stop notre chauffeur nous annonce que l'amortisseur est cassé! Il nous fait un dirty-fix avec un lacet de chaussures!! On est qu'à moitié rassuré et une fois arrivée au prochain stop les gars lui suggèrent de plutôt l'enlever car avec sa solution temporaire l'amortisseur frôle la roue régulièrement et peut rapidement nous abîmer la roue...Bref c'est donc sans amortisseur que nous continuons notre route. Le paysage change assez rapidement...
 
-{{< figure src="/img/uyuni2/enroute/1.jpg" >}}  
+{{< figure src="/img/uyuni2/enroute/00.jpg" >}}  
 
-{{< figure src="/img/uyuni2/enroute/2.jpg" >}}
+{{< figure src="/img/uyuni2/enroute/01.jpg" >}}
 
-{{< figure src="/img/uyuni2/enroute/3.jpg" >}}
+{{< figure src="/img/uyuni2/enroute/02.jpg" >}}
 
 La laguna colorada n'est pas très rose mais les milliers de flamants roses sont au rdv. C'est incroyable, il y en a vraiment à perte de vue...
 
