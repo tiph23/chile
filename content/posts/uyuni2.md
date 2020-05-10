@@ -78,6 +78,6 @@ L'hôtel est vraiment fait de sel: le sol, les murs, les tables...c'est assez s
 
 Grand luxe, cette fois l'hôtel à des douches! Après dîner tout le monde va se coucher rapidement car le lendemain levé prévu pour 4h car départ à 4h30 pour aller voir le lever de soleil depuis le dessert de sel!
 
-ps: coucher de soleil avant d'arrivée à Uyuni:
+ps: coucher de soleil avant l'arrivée à Uyuni:
 
 {{< figure src="/img/uyuni2/coucherSoleil.jpg" >}}
